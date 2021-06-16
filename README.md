@@ -4,9 +4,6 @@
 Hi :wave:, I am an undergraduate computer science engineering student from India! I am a self-taught developer working on frontend, backend web technologies and nowadays I am trying to learn android development. <br><br>
 Learning is my passion. Curiosity excites me! :smile::heart: 
 
-#### Currently working on 🔭
-- ☑️ To complete 10 projects in [Javascript](https://github.com/debaghosh/Javascript-Projects)
-- ☑️ Trying to contribute more to Open Source
 
 #### Languages and Tools
 
