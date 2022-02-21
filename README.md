@@ -1,5 +1,8 @@
 ## Debanjana Ghosh aka debaghosh   <img src="https://media3.giphy.com/media/PMExYMdOHKfa6GU32L/giphy.webp" height="100" width="100"></img>
 
+![Profile-Views](https://komarev.com/ghpvc/?username=debaghosh&color=blueviolet	)
+
+
 Hi :wave:, I am an undergraduate computer science engineering student from India! I work on web technologies and flutter projects and am always challenging myself to try something new. An open-source noob, also trying to improve my basics in cloud computing, data-science and getting some overview of dev-ops currently. Leetcode is my go-to problem solving site, and I aim to get awesome at problem-solving soon! <br>
 
 Curiosity excites me! :smile::heart: 
@@ -16,6 +19,7 @@ PS: It's Yui from K-ON  in the gif, who as per my younger brother's words, is th
 - 🔭 I’m currently focussing on completing my undergradate degree lol.
 - 🌱 I’m currently learning cloud computing concepts with main focus on AWS.
 - 👯 I’m looking to collaborate on open-source projects.
+- 📄 My <a href="https://debaghosh.github.io/portfolio-website/#hero">portfolio site</a> version-i. Will be upgrading to version-ii soon! 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Whenever free, u'll find me rewatching some Going Seventeen episode, scrolling through Pin-interest or doing both while chilling on sofa.
 
@@ -41,14 +45,12 @@ PS: It's Yui from K-ON  in the gif, who as per my younger brother's words, is th
 
 ### My Github Stats
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=debaghosh">
-
-
-
-
-
-
-
+<p align="center">
+<a href="https://github.com/debaghosh">
+ <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=debaghosh&show_icons=true&count_private=true&custom_title=Debaghosh's GitHub Stats "/>
+ <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debaghosh&hide=css,php&layout=compact&custom_title=Most Used Languages"/>
+</a>
+</p>
 
 
 <!--
@@ -68,5 +70,8 @@ Here are some ideas to get you started:
  <img src="https://media0.giphy.com/media/6905qVxGoow0kLQSAC/giphy.gif?cid=790b76117169b40b5ad03945e3c7dd57a3ecf1efe75b60be&rid=giphy.gif&ct=g"></img>
 </p>
 
+
+[![Debaghosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=debaghosh)](https://github.com/debaghosh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debaghosh&layout=compact)](https://github.com/debaghosh/github-readme-stats)
 
 -->
