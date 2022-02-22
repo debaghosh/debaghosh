@@ -16,7 +16,7 @@ PS: It's Yui from K-ON  in the gif, who as per my younger brother's words, is th
  
 <br>
  
-- 🔭 I’m currently focussing on completing my undergradate degree lol.
+- 🔭 I’m currently focussing on completing my undergraduate degree lol.
 - 🌱 I’m currently learning cloud computing concepts with main focus on AWS.
 - 👯 I’m looking to collaborate on open-source projects.
 - 📄 My <a href="https://debaghosh.github.io/portfolio-website/#hero">portfolio site</a> version-i. Will be upgrading to version-ii soon! 
