@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Debaghosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=debaghosh)](https://github.com/debaghosh/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debaghosh&layout=compact)](https://github.com/debaghosh/github-readme-stats)
+![Debaghosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=debaghosh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debaghosh&layout=compact)
 
 -->
